@@ -11,6 +11,6 @@ created_at: "2024-06-29"
 Peace!]
 
 
-[insert pictures of what you're working on!]
+[FreeBoard Schematic.png]
 
 **Total time spent: 3h 10m**
