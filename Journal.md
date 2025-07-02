@@ -37,6 +37,6 @@ scared to add screw hole in, so screw that, also since im using an iso layout, i
 | Royal Mail Shipping     | 5.00       | × 1.36          | 6.80         |
 | Micro USB Cable         | 3.00       | × 1.36          | 4.08         |
 
-![FreeBoard PCB](Freeboard%20PCB.png)
+![FreeBoard PCB](FreeBoard%20PCB.png)
 
 **Time spent 6 Hours**
