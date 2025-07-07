@@ -10,7 +10,7 @@ This is my first keyboard! I had a blast desgining it and I'd thought I'd a nice
 ![FreeBoard 3D](./FreeBoard%203D.png)
 ![FreeBoard PCB Main](./FreeBoard%20PCB%20Main.png)
 ![FreeBoard Schematic Main](./FreeBoard%20Schematic%20Main.png)
-
+![FreeBoard Backside](./FreeBoard%20W-hole.png)
 
 # Bill Of Materials (BOM)
 
