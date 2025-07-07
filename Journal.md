@@ -80,4 +80,4 @@ Now lets talk prices, let me run this with my super cool mathmatical skills and 
 
 I'm soo happy !!!
 
-I'll cya UNTIL EVERYTHIMG ARRIVES!
+I'll cya UNTIL EVERYTHING ARRIVES!
