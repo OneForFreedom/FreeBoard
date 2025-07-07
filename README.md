@@ -3,7 +3,13 @@ Freedom's Keyboard
 This is my first keyboard! I had a blast desgining it and I'd thought I'd a nice black and red layout. This contains 3 rotary encoders cuz why not?
 
 
-Some cool mouthwatering visuals:
+# Some cool mouthwatering visuals:
+
+
+- [FreeBoard 3D BG](./FreeBoard%203D%20BG.png)
+- [FreeBoard 3D](./FreeBoard%203D.png)
+- [FreeBoard PCB Main](./FreeBoard%20PCB%20Main.png)
+- [FreeBoard Schematic Main](./FreeBoard%20Schematic%20Main.png)
 
 
 # Bill Of Materials (BOM)
