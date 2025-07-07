@@ -1,3 +1,5 @@
+TOTAL TIME TAKEN! 24H 10 MIN
+
 ---
 title: "FreeBoard"
 author: "One For Freedom"
@@ -77,6 +79,7 @@ Now lets talk prices, let me run this with my super cool mathmatical skills and 
 **Grand Total (GBP): £74.69**  
 **Grand Total (USD): $101.55**
 
+Time Taken : 10 Hours (Ikr)
 
 I'm soo happy !!!
 
